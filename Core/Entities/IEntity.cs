@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Core.Entities
+﻿namespace Entities.Concrete
 {
-    //IEntitiy impelemt eden class bir veritabanı tablosudur.
     public interface IEntity
     {
-
     }
 }
